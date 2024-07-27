@@ -19,6 +19,7 @@
 ๏ **Perintah:** `getgoodbye`
 ◉ **Keterangan:** Get the goodbye message in the current chat.
 """
+
 import os
 
 from Ayra.dB.greetings_db import (

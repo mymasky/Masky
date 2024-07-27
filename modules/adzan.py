@@ -4,6 +4,7 @@
 ๏ **Perintah:** `adzan` <nama kota>
 ◉ **Keterangan:** Dapatkan jadwal adzan.
 """
+
 import json
 
 import requests
